@@ -1,12 +1,13 @@
 ## PDF reader
 
-Este componente tiene como objetivo ayudar a visualizar un formato PDF.
- ## vista del componente
+Este componente tiene como objetivo ayudar a visualizar un documento de formato PDF.
+
+## vista del componente
 
 ![pdf__reader](https://user-images.githubusercontent.com/97923792/209365019-31e214ca-38ac-4661-9e1a-ce4b2d884ec3.jpg)
 
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
